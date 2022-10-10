@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![Trello](https://img.shields.io/badge/Trello-gray?style=flat&logo=trello&logoColor=blue)&nbsp;
+![Jira](https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=blue)&nbsp;
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
