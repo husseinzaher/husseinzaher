@@ -30,15 +30,17 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure)&nbsp;
-![Azure](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
-
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azuredevops)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)&nbsp;
+ 
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-143?style=flat&logo=PhpStorm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ![Trello](https://img.shields.io/badge/Trello-gray?style=flat&logo=trello&logoColor=blue)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=blue)&nbsp;
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -49,13 +51,10 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-
-
 <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/husseinzaher"><img alt="Zaher's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=husseinzaher&custom_title=Zaher's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  
   
   ### 🤝🏻 &nbsp;Connect with Me
 
