@@ -27,11 +27,12 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+ 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)&nbsp;
+![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azuredevops)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)&nbsp;
