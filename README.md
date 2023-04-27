@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Hussein Zaher <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"><
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50">
 </p>
 
 <!--
@@ -52,9 +52,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/husseinzaher"><img alt="Zaher's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=husseinzaher&custom_title=Zaher's%20Contribution%20Graph&theme=react-dark" /></a>
+
   <br/>
   
   ### 🤝🏻 &nbsp;Connect with Me
