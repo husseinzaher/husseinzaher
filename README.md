@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm Hussein Zaher 👋</h1>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Laravel+Expert;Realtime+Systems+Developer;Clean+Code+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Laravel+.NET+Developer;Realtime+Systems+Engineer;Clean+Code+Enthusiast;Always+Learning+New+Things&center=true&width=520&height=45">
 </p>
 
 <p align="center">
-  <b>Backend Software Engineer | Laravel Expert | Real-Time Systems | Clean Architecture Advocate</b>
+  <b>Backend Software Engineer | Laravel & .NET Developer | Real-Time Systems | Clean Architecture Advocate</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-- Backend Software Engineer specialized in **Laravel & PHP**
+- Backend Software Engineer specialized in **Laravel, PHP, and .NET**
 - Passionate about **Real-Time Systems** (MQTT, WebSockets, Laravel Echo)
-- Experienced in building **modern dashboards** using FilamentPHP & React
-- Strong believer in **SOLID principles**, clean code, and optimization
-- Built and shipped real SaaS products such as **In-Store Smart Notifications** and **GreenFlow**
+- Experienced in building **modern dashboards** with FilamentPHP & React
+- Strong believer in **SOLID principles**, clean architecture, and performance optimization
+- Built and shipped real SaaS products such as **Smart In-Store Notifications** and **GreenFlow**
 - Skilled in Docker, Redis, SQS, Git Submodules, and microservice-friendly architecture
 - Always learning, improving, and exploring new technologies
 
@@ -25,6 +25,7 @@
 
 ### **Backend**
 - Laravel • PHP • FilamentPHP  
+- **.NET • C# • ASP.NET Core**  
 - REST APIs • Webhooks • Queues  
 - Redis • MySQL • PostgreSQL  
 - AWS SQS • WebSockets • MQTT  
@@ -36,32 +37,31 @@
 ### **DevOps & Tools**
 - Docker • Git • GitLab • Git Submodules  
 - Linux • Nginx • Azure DevOps • AWS Basics  
-- PhpStorm • VSCode • Jira • Trello  
+- PhpStorm • VSCode • Rider  
+- Jira • Trello  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Smart In-Store Notification System (SaaS)
-A SaaS platform for e-commerce stores that provides:
-- Real-time in-store interactive notifications  
-- Marketing cards & customer engagement tools  
-- Built with **Laravel, FilamentPHP, Redis, WebSockets**  
-- Smart targeting & marketing-driven UX  
+A SaaS platform for e-commerce stores, offering:
+- Real-time interactive notification cards  
+- Marketing-driven UX & customer engagement  
+- Powered by **Laravel, FilamentPHP, Redis, WebSockets**  
 
 ---
 
 ### 🔹 Remote Card System for E-commerce  
 - Laravel backend + TypeScript frontend  
-- A real-time notification engine customizable per store  
-- Designed for scalability & instant updates  
+- Real-time, scalable, customizable notification engine  
 
 ---
 
 ### 🔹 MQTT Laravel ↔ Flutter Bridge  
-- Laravel acts as the command server  
-- Flutter agent executes actions and reports status live  
-- Designed for IoT-style real-time device control  
+- Laravel command server  
+- Flutter agent executes and reports real-time status  
+- Designed for IoT-grade communication  
 
 ---
 
