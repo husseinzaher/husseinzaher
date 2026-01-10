@@ -1,19 +1,23 @@
 <h1 align="center">Hi, I'm Hussein Zaher 👋</h1>
 
 <p align="center">
-  <b>Backend Software Engineer | Laravel Expert | Real-Time Systems | DevOps-Friendly</b>
+ <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Software+Engineer;Laravel+Expert;Realtime+Systems+Developer;Clean+Code+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <b>Backend Software Engineer | Laravel Expert | Real-Time Systems | Clean Architecture Advocate</b>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🧑‍💻 Backend Developer متخصص في Laravel & PHP  
-- ⚡ شغوف ببناء أنظمة Realtime (MQTT – Laravel Echo – WebSockets)  
-- 🧩 مهتم ببناء Dashboards احترافية باستخدام FilamentPHP و React  
-- 🧠 بحب الـ SOLID Clean Code & Performance Optimization  
-- 🛠 شغال على Projects SaaS حقيقية منها إشعارات مباشر و GreenFlow  
-- 🔍 بخبرة قوية مع Docker – Redis – SQS – Git Submodules – Microservices  
-- 🌱 بتعلم باستمرار وبدور على Skills جديدة كل يوم  
+- Backend Software Engineer specialized in **Laravel & PHP**
+- Passionate about **Real-Time Systems** (MQTT, WebSockets, Laravel Echo)
+- Experienced in building **modern dashboards** using FilamentPHP & React
+- Strong believer in **SOLID principles**, clean code, and optimization
+- Built and shipped real SaaS products such as **In-Store Smart Notifications** and **GreenFlow**
+- Skilled in Docker, Redis, SQS, Git Submodules, and microservice-friendly architecture
+- Always learning, improving, and exploring new technologies
 
 ---
 
@@ -23,64 +27,58 @@
 - Laravel • PHP • FilamentPHP  
 - REST APIs • Webhooks • Queues  
 - Redis • MySQL • PostgreSQL  
-- SQS • WebSockets • MQTT  
+- AWS SQS • WebSockets • MQTT  
 
 ### **Frontend**
 - React • TypeScript • TailwindCSS  
 - Inertia.js • Vite  
 
-### **Tools & DevOps**
-- Docker • Git Submodules • GitHub Actions  
-- Linux • Nginx • CI/CD Pipelines  
+### **DevOps & Tools**
+- Docker • Git • GitLab • Git Submodules  
+- Linux • Nginx • Azure DevOps • AWS Basics  
+- PhpStorm • VSCode • Jira • Trello  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 **اشعارات مباشر – Smart In-Store Notification System (SaaS)**
-- SaaS للمتاجر الإلكترونية  
-- إشعارات تفاعلية + كروت تسويقية داخل المتجر  
-- Laravel + FilamentPHP + WebSockets + Redis  
-- استهداف ذكي + زيادة مبيعات باستخدام الـPsych Marketing  
+### 🔹 Smart In-Store Notification System (SaaS)
+A SaaS platform for e-commerce stores that provides:
+- Real-time in-store interactive notifications  
+- Marketing cards & customer engagement tools  
+- Built with **Laravel, FilamentPHP, Redis, WebSockets**  
+- Smart targeting & marketing-driven UX  
 
 ---
 
-### 🔹 **Remote Card for Ecommerces**
-- Laravel backend + TS Frontend + Echo  
-- Notification engine customizable لكل متجر  
-- Highly scalable + Real-time updates  
+### 🔹 Remote Card System for E-commerce  
+- Laravel backend + TypeScript frontend  
+- A real-time notification engine customizable per store  
+- Designed for scalability & instant updates  
 
 ---
 
-### 🔹 **MQTT Laravel <> Flutter Bridge**
-- Laravel يصدر أوامر  
-- Flutter Agent ينفذ ويعمل Report لحظي  
-- Realtime device management system  
+### 🔹 MQTT Laravel ↔ Flutter Bridge  
+- Laravel acts as the command server  
+- Flutter agent executes actions and reports status live  
+- Designed for IoT-style real-time device control  
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Connect With Me
 
-<div align="center">
-
-![Hussein's GitHub stats](https://github-readme-stats.vercel.app/api?username=husseinzaher&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=husseinzaher&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📩 Contact Me
-- 💼 **LinkedIn:** *Add your link here*  
-- 📨 **Email:** *Add your email here*  
-- 🌍 **Portfolio:** Coming soon…
+<p align="center">
+<a href="https://www.linkedin.com/in/husseinzaher/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:husseinzaher@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://www.instagram.com/husseinzah2r/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/AL.HUSSEINZAH2R/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
 ### ✨ Quote I Live By
-> “Keep learning. Keep shipping. Keep improving.”
+> **“Keep learning. Keep shipping. Keep improving.”**
 
 ---
 
-## If you like my work, consider giving a ⭐ to my repositories! 😊
+<p align="center">⭐ If you like my work, feel free to star my repositories.</p>
