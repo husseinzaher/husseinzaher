@@ -1,127 +1,57 @@
-# Hi, I'm Hussein Zaher
+# Hi, I'm Hussein Zaher 👋
 
-### Senior Software Engineer | Laravel & PHP | .NET | Real-Time Systems | AI-Assisted Development
+### Senior Software Engineer | Backend & AI Engineering
 
-Senior Software Engineer with **6+ years of experience** building scalable web applications, SaaS platforms, e-commerce systems, and high-traffic backend solutions.
+I build scalable backend systems, SaaS platforms, business applications, and developer tools using **PHP, Laravel, .NET, and Node.js**.
 
-I specialize in **Laravel, PHP, backend architecture, real-time systems, API integrations, performance optimization, and production systems**.
-
----
-
-## About Me
-
-- Senior Software Engineer specializing in **Laravel, PHP, and .NET**
-- 6+ years of experience building **scalable web applications, SaaS platforms, e-commerce systems, and backend services**
-- Experienced in developing and optimizing products serving **2M+ users**
-- Strong experience in **Laravel-based backend architecture, REST APIs, queues, events, integrations, and real-time systems**
-- Experienced in building **B2B and B2C multi-vendor e-commerce platforms**
-- Built advanced e-commerce features including **payments, shipping, wallets, inventory, bundles, offers, coupons, ads, and product variations**
-- Passionate about **Real-Time Systems** using WebSockets, Pusher, Laravel Echo, and MQTT
-- Experienced in integrating **payment gateways, shipping providers, SMS services, WhatsApp APIs, and third-party platforms**
-- Built **WhatsApp multi-agent systems** with conversation tracking, agent assignment, and response management
-- Experienced with **cloud storage, file management, access permissions, expiring URLs, and large-file workflows**
-- Strong focus on **performance optimization, database/query optimization, reliability, and production issue resolution**
-- Experienced in **Docker, Redis, AWS, GCP, Linux servers, Nginx, CI/CD, and cloud deployment**
-- Experienced in **legacy system migration, data synchronization, data import/export, and system integrations**
-- Team leadership experience with a track record of improving development delivery and team productivity
-- Strong believer in **SOLID principles, clean architecture, maintainable code, testing, and pragmatic engineering**
-- Using **Generative AI, LLMs, and AI-assisted development** to improve productivity and build smarter applications
+My focus is on **system architecture, real-time systems, performance, testing, and AI-powered software development**.
 
 ---
 
-## Current Focus
+## About
 
-- Scalable Backend Architecture
-- Real-Time & Event-Driven Systems
-- AI-Assisted Software Development
-- LLM & AI Application Integration
-- Performance Engineering & Optimization
-- Clean Architecture & Software Design
-- Distributed Systems & Backend Integrations
-- Data Migration & Synchronization
-- Developer Automation & AI-Powered Workflows
+- 6+ years building scalable backend systems, SaaS platforms, and e-commerce products.
+- Worked on products serving **2M+ users**.
+- Strong background in **Laravel, PHP, .NET, Node.js, APIs, queues, events, and real-time systems**.
+- Experience with **system architecture, performance optimization, testing, CI/CD, and cloud infrastructure**.
+- Building with **LLMs, AI agents, RAG, and AI-assisted development workflows**.
 
 ---
 
-## Engineering Interests
+## Tech Stack
 
-- Backend Architecture & System Design
-- High-Traffic & Scalable Systems
-- Event-Driven Architecture
-- Real-Time Communication
-- API Design & Third-Party Integrations
-- Database Design & Query Optimization
-- Distributed & Asynchronous Processing
-- Legacy System Modernization
-- Data Migration & Synchronization
-- Automated Testing & Code Quality
-- AI-Powered Software Development
+### Backend
+PHP • Laravel • C# • .NET • Node.js  
+REST APIs • Webhooks • Queues • Events  
+MySQL • PostgreSQL • Redis • MongoDB
 
----
+### Architecture & Systems
+System Design • Microservices • Event-Driven Architecture  
+Real-Time Systems • Distributed Processing  
+Performance Optimization • System Integration
 
-## 🛠 Tech Stack
+### AI
+LLM Integration • AI Agents • RAG  
+Prompt Engineering • AI APIs • AI-Assisted Development
 
-### **Backend**
+### DevOps
+Docker • Linux • Nginx  
+AWS • GCP • DigitalOcean • Hetzner  
+GitHub Actions • Azure DevOps • CI/CD
 
-- **PHP • Laravel**
-- **C# • .NET • ASP.NET Core**
-- **Node.js**
-- REST APIs • Webhooks • Queues • Events • Jobs
-- Redis • MySQL • PostgreSQL • MongoDB • SQLite
-- AWS SQS • WebSockets • Laravel Echo • Pusher • MQTT
-
-### **Frontend**
-
-- React • TypeScript • Vue.js
-- Tailwind CSS • Inertia.js • Vite
-- JavaScript • HTML • CSS
-
-### **AI & Modern Development**
-
-- Generative AI • LLMs • AI-Assisted Development
-- AI APIs & LLM Integration
-- Prompt Engineering
-- Claude Code • GitHub Copilot
-
-### **DevOps & Infrastructure**
-
-- Docker • Linux • Nginx • Apache
-- Git • GitHub • GitLab • Git Submodules
-- GitHub Actions • Azure DevOps / Pipelines
-- AWS • GCP • DigitalOcean • Hetzner
-- CI/CD • Cloud Deployment
-
-### **Testing & Code Quality**
-
-- Pest • PHPUnit
-- PHPStan • Larastan
-- Deptrac
-- Test-Driven Development
-- Automated Testing • Static Analysis
-
-### **Integrations & APIs**
-
-- Payment Gateway Integrations
-- Shipping API Integrations
-- WhatsApp API
-- SMS Providers
-- Third-Party APIs
-- Web Scraping
-- Data Import / Export
-
-### **Cloud & Storage**
-
-- AWS S3
-- GCP
-- pCloud
-- Cloud Storage Integration
-- File Permissions
-- Expiring URLs
-- Large File Management
+### Testing & Quality
+Pest • PHPUnit • PHPStan • Larastan  
+Deptrac • TDD • Static Analysis
 
 ---
 
 ## Featured Projects
+
+### 🔹 easy-test
+
+A Laravel testing package for running Pest test groups independently with per-module coverage, parallel execution, retries, Docker support, and testing database safety checks.
+
+👉 [View on GitHub](https://github.com/husseinzaher/easy-test)
 
 ### 🔹 Smart In-Store Notification System
 
@@ -227,17 +157,13 @@ A cloud-based file management workflow supporting large files and controlled acc
 - Designed cloud-based file management and storage workflows
 
 ---
+## Education
 
-## 🎓 Education
-
-### Master's Degree in Data Science
-
+### Diploma in Data Science
 **Faculty of Graduate Studies for Statistical Research (FGSSR), Cairo University**
-
 2024 – 2026
 
 ### Diploma
-
 **Information Technology Institute (ITI)**
 
 ---
@@ -255,13 +181,11 @@ A cloud-based file management workflow supporting large files and controlled acc
 - Webmaster Diploma — Vue.js & Laravel
 
 ---
+## Connect
 
-## Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/husseinzaher](https://www.linkedin.com/in/husseinzaher/)
-- **Email:** [husseinzaher@outlook.com](mailto:husseinzaher@outlook.com)
-- **GitHub:** [github.com/husseinzaher](https://github.com/husseinzaher/)
-- **Portfolio:** [people.bayt.com/husseinzaher](https://people.bayt.com/husseinzaher/)
+- [LinkedIn](https://www.linkedin.com/in/husseinzaher/)
+- [GitHub](https://github.com/husseinzaher/)
+- [Email](mailto:husseinzaher@outlook.com)
 
 ---
 
