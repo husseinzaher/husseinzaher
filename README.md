@@ -1,74 +1,54 @@
 # Hussein Zaher
 
-### Backend Engineer · Node.js / NestJS / TypeScript · AI & SaaS Products
+### Senior Backend Engineer | Node.js · NestJS · TypeScript | SaaS & AI Integrations
 
-**Software engineering is my career. Law is my academic background.**
+I build **reliable backend systems** that turn complex business requirements into scalable APIs, integrations, and production-ready workflows. My work spans enterprise platforms, e-commerce, SaaS, and practical AI applications.
 
-I'm a **backend engineer** focused on building reliable APIs, SaaS platforms, integrations, real-time systems, and AI-powered workflows.
+I enjoy **system design, database performance, asynchronous processing, authentication, testing, and production reliability**. I collaborate across engineering and product teams to ship software that solves real operational problems.
 
-I hold a **Bachelor of Laws**, but my professional experience has been in **software engineering, not legal practice**. That academic background has sparked my interest in exploring **LegalTech** products, where I can apply engineering skills to complex legal-domain problems.
+## Engineering toolkit
 
-My main stack includes **Node.js, NestJS, and TypeScript**, with additional experience in **.NET, React, PHP, and Laravel**. I'm also **currently studying Data Science**, building on my engineering background with statistics and data-driven approaches.
-
----
-
-## Engineering focus
-
-| Area | What I work on |
+| Focus | Technologies & practices |
 | --- | --- |
-| **Backend engineering** | APIs, authentication, webhooks, queues, integrations, and maintainable architecture |
-| **AI & automation** | LLM integrations, AI agents, provider integrations, and human-in-the-loop workflows |
-| **Data & reliability** | PostgreSQL, Redis, Docker, Linux, CI/CD, observability, testing, and performance |
-| **Product engineering** | Translating business requirements into SaaS features and practical technical solutions |
-| **LegalTech interest** | Exploring how software and AI can improve legal research, document, case, and office workflows |
+| **Backend & APIs** | Node.js, NestJS, TypeScript, REST APIs, webhooks, authentication, and system design |
+| **Data & reliability** | PostgreSQL, Redis, queues, caching, concurrency, and observability |
+| **AI integrations** | LLM providers, AI agents, workflow automation, and human-in-the-loop systems |
+| **Infrastructure & quality** | Docker, Linux, CI/CD, automated testing, performance profiling, and cloud deployments |
+| **Broader experience** | .NET, React, PHP, Laravel, and cross-functional product delivery |
 
-## Selected engineering work
+## Selected projects
 
-### [Tajeer AI](https://github.com/husseinzaher/tajeerai) · AI commerce & customer engagement
-An Arabic-first commerce platform centered on customer conversations, store integrations, messaging automation, and AI-powered support. The product source is private; this is its public project page.
+### [Tajeer AI](https://github.com/husseinzaher/tajeerai) — AI-powered commerce SaaS
+An Arabic-first commerce product focused on merchant integrations, unified customer conversations, messaging automation, and AI-assisted customer support. The linked repository is a **public project overview**; core application code is private.
 
-### [NestLens](https://github.com/husseinzaher/nestlens) · NestJS developer tooling
-Contributions to NestJS monitoring tooling, including MCP integration work for AI coding agents.
+### [NestLens](https://github.com/husseinzaher/nestlens) — NestJS developer tooling
+Open-source contribution work on an MCP integration that helps AI coding tools inspect application diagnostics. This repository is a **fork** of the upstream project.
 
-### [Cloudflare Infrastructure](https://github.com/husseinzaher/cloudflare) · Cloud reliability
-Infrastructure work around multi-tenant error pages, uptime monitoring, and origin-failure resilience.
+### [Cloudflare Infrastructure](https://github.com/husseinzaher/cloudflare) — Availability & resilience
+Edge tooling for multi-tenant error pages, uptime monitoring, and resilient fallback handling during origin failures.
 
-### [easy-test](https://github.com/husseinzaher/easy-test) · Testing & developer experience
-A Laravel testing toolkit covering isolated Pest test groups, module-level coverage, parallel execution, retries, Docker support, and database-safety checks.
+### [easy-test](https://github.com/husseinzaher/easy-test) — Testing developer experience
+A Laravel/Pest testing toolkit for isolated test groups, per-module coverage, parallel execution, retries, and Docker workflows.
 
----
+## Experience highlights
 
-## Exploring LegalTech
+- Built backend services and integrations for enterprise, commerce, and SaaS products.
+- Worked on a high-traffic product serving **2M+ users**.
+- Delivered complex workflows across orders, payments, shipping, inventory, and external APIs.
+- Collaborated on architecture, code reviews, release delivery, and production troubleshooting.
 
-### Al Mohamy Al Zaky | المحامي الذكي
+## Beyond engineering
 
-An **early-stage LegalTech SaaS idea and interactive demo** aimed at Egyptian law firms. It combines my **academic education in law** with my **professional experience as a software engineer**.
-
-The *planned product direction* includes:
-- Case, client, document, and task management for law offices
-- AI-assisted document analysis and drafting with **lawyer review**
-- Legal research workflows designed around **verifiable Egyptian legal sources**
-- Privacy, permissions, and data isolation for each law firm
-
-**Project status:** Concept and interactive prototype. It is **not** a launched legal AI service, an operational legal research database, or a substitute for professional legal advice.
-
-## Engineering experience
-
-- Built and maintained backend systems for SaaS, commerce, and operational products
-- Worked on products serving **2M+ users**
-- Worked on high-traffic e-commerce performance, concurrency, payment integrations, and real-time communications
-- Collaborated on architecture, technical planning, and product delivery
+I hold a **Bachelor of Laws** and am **currently studying Data Science** at Cairo University. My academic interests also inspire an exploration of **LegalTech**, including **Al Mohamy Al Zaky | المحامي الذكي**—an early interactive prototype for law-office workflows.
 
 ## Education & training
 
-- **Bachelor of Laws** — academic qualification; professional career in software engineering
-- **Data Science Diploma (in progress)** — currently studying at the Faculty of Graduate Studies for Statistical Research, Cairo University
-- **Software Development Diploma** — Route Academy
-- **Webmaster Diploma** — ITSHARE
-- Additional training in .NET backend development, software testing, and Laravel
+- **Data Science Diploma — in progress**, Faculty of Graduate Studies for Statistical Research, Cairo University
+- **Bachelor of Laws**, Mansoura University
+- **Software Development Diploma**, Route Academy
+- **Webmaster Diploma**, ITSHARE
+- Additional training in .NET backend development, testing, and Laravel
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/husseinzaher/) · [GitHub](https://github.com/husseinzaher) · [Email](mailto:husseinzaher@outlook.com)
-
-*Building reliable software for complex real-world problems.*
