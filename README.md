@@ -8,7 +8,7 @@ I'm a **backend engineer** focused on building reliable APIs, SaaS platforms, in
 
 I hold a **Bachelor of Laws**, but my professional experience has been in **software engineering, not legal practice**. That academic background has sparked my interest in exploring **LegalTech** products, where I can apply engineering skills to complex legal-domain problems.
 
-My main stack includes **Node.js, NestJS, and TypeScript**, with additional experience in **.NET, React, PHP, and Laravel**.
+My main stack includes **Node.js, NestJS, and TypeScript**, with additional experience in **.NET, React, PHP, and Laravel**. I'm also **currently studying Data Science**, building on my engineering background with statistics and data-driven approaches.
 
 ---
 
@@ -62,7 +62,7 @@ The *planned product direction* includes:
 ## Education & training
 
 - **Bachelor of Laws** — academic qualification; professional career in software engineering
-- **Data Science Diploma** — Faculty of Graduate Studies for Statistical Research, Cairo University
+- **Data Science Diploma (in progress)** — currently studying at the Faculty of Graduate Studies for Statistical Research, Cairo University
 - **Software Development Diploma** — Route Academy
 - **Webmaster Diploma** — ITSHARE
 - Additional training in .NET backend development, software testing, and Laravel
